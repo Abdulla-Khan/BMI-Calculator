@@ -1,10 +1,6 @@
-# calculator
+# Calculator
+A fucntioning BMI (Body Mass Index)calculator that takes your Height and Weight as input and displays your Body Mass and tells if you are Under weight or over weight
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
